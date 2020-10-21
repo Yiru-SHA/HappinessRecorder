@@ -1,0 +1,19 @@
+
+body{
+  
+    /*background-image: linear-gradient(to left, black, black 50%, white 50%);*/
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+    margin: 2.5rem;
+    text-align: center;
+  }
+
+  h1{
+  
+    font-size: 36px;
+  }
+  h2{
+    font-size: 18px;
+  }
+  
